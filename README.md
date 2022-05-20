@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LincolnErastus
 - 👀 I’m interested in Python, Flask, Django, Data Science and Machine Learning
 - 🌱 I’m currently learning Python and Flask, looking forward to growing on to Django and finally delving into data science.
-- 💞️ I’m looking to collaborate on any Python project to collaborate on any Python projects.
+- 💞️ I’m looking to collaborate on Python projects.
 - 📫 lincerastus@gmail.com
 
 <!---
